@@ -1,0 +1,5 @@
+# data.yaml
+train: ./datasets/train
+val: ./datasets/val
+nc: 2  # number of classes: upper_case and lower_case
+names: ['upper_case', 'lower_case']
